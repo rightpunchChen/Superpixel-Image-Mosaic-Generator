@@ -33,3 +33,5 @@ python main.py --target_root ./test.jpg --image_pool ./image_pool --output_dir .
 1. Ensure the `image_pool` contains a diverse set of images for better mosaic effects.
 2. A higher `resize_factor` speeds up processing but may reduce output quality.
 3. Adjust `region_size` and `ruler` to control the granularity and smoothness of superpixels.
+
+<img src="https://github.com/rightpunchChen/3d-mri-volume-visualizer-v2/blob/main/demo.png">
