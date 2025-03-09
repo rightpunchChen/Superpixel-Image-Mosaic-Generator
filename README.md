@@ -34,4 +34,4 @@ python main.py --target_root ./test.jpg --image_pool ./image_pool --output_dir .
 2. A higher `resize_factor` speeds up processing but may reduce output quality.
 3. Adjust `region_size` and `ruler` to control the granularity and smoothness of superpixels.
 
-<img src="https://github.com/rightpunchChen/3d-mri-volume-visualizer-v2/blob/main/demo.png">
+<img src="https://github.com/rightpunchChen/Superpixel-Image-Mosaic-Generator/blob/main/results.png">
